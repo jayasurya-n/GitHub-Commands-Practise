@@ -10,6 +10,3 @@ app.get("/", (req, res) => {
   res.send(`<h1>Behold, I am ${name}!</h1>`);
 });
 
-app.listen(port, () => {
-  console.log(`Listening on port ${port}`);
-});
