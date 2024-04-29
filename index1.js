@@ -1,2 +1,2 @@
 import express from "express";
-import superheroes from "superheroes";
+import superheroes from "super";
